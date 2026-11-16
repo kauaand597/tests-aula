@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+nome = nome.strip()
+nome = nome.upper()
+print("Nome:", nome)
+print("Caracteres:", len(nome))
